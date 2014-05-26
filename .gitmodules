@@ -1,0 +1,3 @@
+[submodule "evil-hangman"]
+	path = evil-hangman
+	url = git://github.com/shnaqvi/Evil-Hangman.git
